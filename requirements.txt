@@ -1,0 +1,2 @@
+stockfish==3.13.0
+pyTelegramBotAPI==4.0.0
